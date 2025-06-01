@@ -1,0 +1,21 @@
+
+--- Bookstore Bill ---
+
+Date: 2025-02-28 10:00:32
+Category: General Knowledge
+Book Name: Nda
+Quantity: 1
+Price per Book: 200.0
+Total Price: 200.0
+-----------------------
+
+Date: 2025-02-28 10:00:47
+Category: Mythology
+Book Name: Jaya
+Quantity: 4
+Price per Book: 380.0
+Total Price: 1520.0
+-----------------------
+
+Total Amount Payable: 1720.0
+-----------------------

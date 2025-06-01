@@ -1,0 +1,5 @@
+Nda,0,200
+Uttar Pradesh,0,300
+Samanya,0,450
+Krish,0,400
+Kishan,0,400

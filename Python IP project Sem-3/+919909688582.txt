@@ -1,0 +1,13 @@
+
+--- Bookstore Bill ---
+
+        Date: 2025-02-28 00:11:25
+        Category: Mythology
+        Book Name: Jaya
+        Quantity: 1
+        Price per Book: 380.0
+        Total Price: 380.0
+        -----------------------
+        
+Total Amount Payable: 380.0
+-----------------------

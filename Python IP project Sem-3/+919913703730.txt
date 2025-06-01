@@ -1,0 +1,13 @@
+
+--- Bookstore Bill ---
+
+Date: 2025-02-28 14:51:08
+Category: General Knowledge
+Book Name: krish
+Quantity: 2
+Price per Book: 400.0
+Total Price: 800.0
+-----------------------
+
+Total Amount Payable: 800.0
+-----------------------

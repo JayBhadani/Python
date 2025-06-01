@@ -1,0 +1,21 @@
+
+--- Bookstore Bill ---
+
+Date: 2025-02-28 14:55:08
+Category: General Knowledge
+Book Name: krish
+Quantity: 2
+Price per Book: 400.0
+Total Price: 800.0
+-----------------------
+
+Date: 2025-02-28 14:55:19
+Category: Mythology
+Book Name: jaya
+Quantity: 5
+Price per Book: 380.0
+Total Price: 1900.0
+-----------------------
+
+Total Amount Payable: 2700.0
+-----------------------

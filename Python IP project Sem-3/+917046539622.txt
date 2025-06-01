@@ -1,0 +1,13 @@
+
+--- Bookstore Bill ---
+
+        Date: 2025-02-28 09:38:11
+        Category: General Knowledge
+        Book Name: Samanya
+        Quantity: 2
+        Price per Book: 450.0
+        Total Price: 900.0
+        -----------------------
+        
+Total Amount Payable: 900.0
+-----------------------

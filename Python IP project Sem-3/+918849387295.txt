@@ -1,0 +1,29 @@
+
+--- Bookstore Bill ---
+
+Date: 2025-03-02 19:35:35
+Category: General Knowledge
+Book Name: kishan
+Quantity: 50
+Price per Book: 400.0
+Total Price: 20000.0
+-----------------------
+
+Date: 2025-03-02 19:36:01
+Category: General Knowledge
+Book Name: Uttar Pradesh
+Quantity: 10
+Price per Book: 300.0
+Total Price: 3000.0
+-----------------------
+
+Date: 2025-03-02 19:36:14
+Category: General Knowledge
+Book Name: Samanya
+Quantity: 11
+Price per Book: 450.0
+Total Price: 4950.0
+-----------------------
+
+Total Amount Payable: 27950.0
+-----------------------

@@ -1,0 +1,21 @@
+
+--- Bookstore Bill ---
+
+Date: 2025-03-01 10:47:29
+Category: Social Science
+Book Name: Anthropology
+Quantity: 5
+Price per Book: 350.0
+Total Price: 1750.0
+-----------------------
+
+Date: 2025-03-01 10:47:45
+Category: Social Science
+Book Name: Political
+Quantity: 2
+Price per Book: 400.0
+Total Price: 800.0
+-----------------------
+
+Total Amount Payable: 2550.0
+-----------------------
