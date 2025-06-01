@@ -1,0 +1,4 @@
+Anthropology,5,350
+Economics,15,400
+Political,3,400
+Psychology,6,480

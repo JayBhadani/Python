@@ -1,0 +1,21 @@
+
+--- Bookstore Bill ---
+
+Date: 2025-03-01 10:50:27
+Category: Mythology
+Book Name: Ramayana
+Quantity: 2
+Price per Book: 350.0
+Total Price: 700.0
+-----------------------
+
+Date: 2025-03-01 10:50:44
+Category: Social Science
+Book Name: Psychology
+Quantity: 2
+Price per Book: 480.0
+Total Price: 960.0
+-----------------------
+
+Total Amount Payable: 1660.0
+-----------------------

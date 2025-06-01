@@ -1,0 +1,21 @@
+
+--- Bookstore Bill ---
+
+Date: 2025-02-28 21:40:28
+Category: General Knowledge
+Book Name: krish
+Quantity: 21
+Price per Book: 400.0
+Total Price: 8400.0
+-----------------------
+
+Date: 2025-02-28 21:40:46
+Category: Mythology
+Book Name: Mahabharata
+Quantity: 18
+Price per Book: 300.0
+Total Price: 5400.0
+-----------------------
+
+Total Amount Payable: 13800.0
+-----------------------

@@ -1,0 +1,29 @@
+
+--- Bookstore Bill ---
+
+Date: 2025-02-28 14:56:42
+Category: General Knowledge
+Book Name: Samanya
+Quantity: 5
+Price per Book: 450.0
+Total Price: 2250.0
+-----------------------
+
+Date: 2025-02-28 14:56:54
+Category: Mythology
+Book Name: Mahabharata
+Quantity: 2
+Price per Book: 300.0
+Total Price: 600.0
+-----------------------
+
+Date: 2025-02-28 14:57:05
+Category: Mythology
+Book Name: Ramayana
+Quantity: 2
+Price per Book: 350.0
+Total Price: 700.0
+-----------------------
+
+Total Amount Payable: 3550.0
+-----------------------
